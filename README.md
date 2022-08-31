@@ -17,7 +17,7 @@ crontab -e
 Input as following
 
 ```
-{what you get from https://crontab.guru/} cd {path to this repo} && update-managed-repo.sh
+{what you get from https://crontab.guru/} cd {path to this repo} && ./update-managed-repo.sh
 ```
 
 E.g.,
