@@ -2,6 +2,10 @@
 
 Automatically update all managed repos
 
+## dependencies
+
+- [`ghq`](https://github.com/x-motemen/ghq)
+
 ## setup
 
 Find the right schedule for you to run the script here
