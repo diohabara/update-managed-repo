@@ -3,5 +3,5 @@ set -euo pipefail
 
 for f in $(ghq list -p)
 do
-  cd "$f" || exit; git pull
+  cd "$f" || exit; git pull; git push
 done
