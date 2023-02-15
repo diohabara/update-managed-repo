@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-set -euox pipefail
+#!/usr/bin/env zsh
+set -euo pipefail
 
 for f in $(ghq list -p)
 do
